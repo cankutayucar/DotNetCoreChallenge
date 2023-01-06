@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lNRM6cNA+puwMewl9jjK/Sv0ZywJYdwQ99G97u4fEVg=",
+  "Source": "DotNetChallenge.WepApi",
+  "BasePath": "_content/DotNetChallenge.WepApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

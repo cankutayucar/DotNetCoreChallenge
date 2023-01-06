@@ -1,0 +1,15 @@
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\bin\Debug\net6.0\DotNetChallenge.Application.deps.json
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\bin\Debug\net6.0\DotNetChallenge.Application.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\bin\Debug\net6.0\DotNetChallenge.Application.pdb
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\bin\Debug\net6.0\DotNetChallenge.Domain.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\bin\Debug\net6.0\DotNetChallenge.Domain.pdb
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.csproj.CopyComplete
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\refint\DotNetChallenge.Application.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\DotNetChallenge.Application.pdb
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Application\obj\Debug\net6.0\ref\DotNetChallenge.Application.dll

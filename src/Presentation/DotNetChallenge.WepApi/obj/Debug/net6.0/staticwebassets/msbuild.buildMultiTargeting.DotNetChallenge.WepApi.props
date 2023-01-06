@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotNetChallenge.WepApi.props" />
+</Project>

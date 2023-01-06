@@ -1,0 +1,12 @@
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\bin\Debug\net6.0\DotNetChallenge.Domain.deps.json
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\bin\Debug\net6.0\DotNetChallenge.Domain.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\bin\Debug\net6.0\DotNetChallenge.Domain.pdb
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\refint\DotNetChallenge.Domain.dll
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\DotNetChallenge.Domain.pdb
+C:\Users\Cankutay\Desktop\NetCoreChallenge\DotNetChallenge\src\Core\DotNetChallenge.Domain\obj\Debug\net6.0\ref\DotNetChallenge.Domain.dll
